@@ -9,7 +9,11 @@
   <a href="https://www.youtube.com/@MohitGupta-db8lw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Mohit-tes-coder&style=flat-square&color=blue" alt=""/>
+
 </div>
+
+
 
 👋 Hi, there
 I'm Mohit Rajendra Gupta!
