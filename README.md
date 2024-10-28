@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-👋 Hi, I'm Mohit Rajendra Gupta!
+👋 Hi, there
+I'm Mohit Rajendra Gupta!
 About Me
 I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and Selenium, and a solid foundation in JavaScript and Java. My focus is on ensuring quality through robust test suites and best practices in software testing.
 
