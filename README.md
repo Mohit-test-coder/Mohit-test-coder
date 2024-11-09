@@ -21,7 +21,8 @@
 ![TestNG](https://img.shields.io/badge/TestNG-%23873695.svg?style=for-the-badge&logo=testng&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23A42E2B.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-%23FF6A00.svg?style=for-the-badge&logo=browserstack&logoColor=white)
-![Bagasura](https://img.shields.io/badge/Bagasura-%231F2937.svg?style=for-the-badge&logoColor=white)
+![Jira Tool](https://img.shields.io/badge/Jira_Tool-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ## 🔍 Testing Focus
 ![Automated Testing](https://img.shields.io/badge/Automated_Testing-%230081CB.svg?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -32,6 +33,9 @@
 ## 📚 Methodologies
 ![Page Object Model (POM)](https://img.shields.io/badge/Page_Object_Model-%23007ACC.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Agile Development](https://img.shields.io/badge/Agile_Development-%23048A81.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![BDD Method](https://img.shields.io/badge/BDD_Method-%2345A44B.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%238C8C8C.svg?style=for-the-badge&logo=testng&logoColor=white)
+
 
 
 ## 🚀 *Projects*
